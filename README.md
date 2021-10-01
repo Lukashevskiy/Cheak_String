@@ -1,3 +1,4 @@
+```java
 package ru.endurence;
 
 
@@ -69,3 +70,4 @@ public class Main {
 
     }
 
+```
